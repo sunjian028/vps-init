@@ -15,13 +15,15 @@
 - 新购 VPS 初始化  
 - 重装系统后快速部署  
 - 小白无脑使用，专业用户可扩展
-
+- 
 ---
 
 ## 📌 一键运行
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/sunjian028/vps-init/main/init-vps.sh)"
+
+---
 
 📦 手动下载
 wget https://raw.githubusercontent.com/sunjian028/vps-init/main/init-vps.sh
